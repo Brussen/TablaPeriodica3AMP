@@ -12,7 +12,7 @@ Tabla periódica de los elementos, con información detallada, buscador y un jue
     La Instrucción TypeOf se usa para comparar el tipo de objeto que es algo, en este caso, se buscan controles de tipo Button.
 
 **3.- Limpiado y normalizado de la búsqueda.**
-    La Función .Normalize transforma un texto en distintas formas, la forma "D" (FormD) separa a los caracteres de manera modular (Ej.- Á -> A + ´).
+    La Función .Normalize transforma un texto en distintas formas, la forma "D" (FormD) separa a los caracteres de manera modular ( Ej.- Á -> A + ´ ).
     Esto es utilizado para segmentar el texto. La Clase de objeto StringBuilder crea un String editable de una longitud especificada. Se utiliza el largo del texto actual.
     Se inicializa otro ciclo, un ciclo For regular que itera en los caracteres que componen al texto. En Visual Basic, los Strings se leen como Arrays de Caracteres, por lo que se 
     puede seleccionar una letra en específico de la misma forma que seleccionarías un elemento en un Array. Utilizando ésto, se itera en todos los caracteres que componen al 
@@ -27,7 +27,7 @@ Tabla periódica de los elementos, con información detallada, buscador y un jue
     Finalmente, si el cuadro de búsqueda está vacio, o está mostrando el mensaje de inactividad, muestra todos los elementos.
 
 **5.- Añadido nuevos elementos.**
-    En el diseñador, agrega una nuevo Button. En la propiedad de Nombre (Name) ingresa el nombre del elemento a añadir, y en la propiedad Text, inserta el símbolo. El cuadro de búsqueda
+    En el diseñador, agrega una nuevo Button. En la propiedad de Name ingresa el nombre del elemento a añadir, y en la propiedad Text, inserta el símbolo. El cuadro de búsqueda
     lo considerará automaticamente gracias al ciclo For Each.
 
 **6.- Eventos Miscelaneos.**
