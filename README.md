@@ -8,7 +8,7 @@ Tabla periódica de los elementos, con información detallada, buscador y un jue
 
 **2.- Ciclo For Each para obtener los controles.**
     Primero, se guarda lo escrito en el buscador en la variable "text", que se utiliza después.
-    El ciclo For Each es similar a un ciclo For regular, solo que éste busca itera en elementos dentro de un Array (lista o contenedor de valores). El Array en el que busca es 
+    El ciclo For Each es similar a un ciclo For regular, solo que éste busca e itera en elementos dentro de un Array (lista o contenedor de valores). El Array en el que busca es 
     " Me.Controls "; Me se refiere a si mismo (el form) y .Controls especifica la busqueda a solo los controles dentro del form.
     La Instrucción TypeOf se usa para comparar el tipo de objeto que es algo, en este caso, se buscan controles de tipo Button.
 
@@ -28,7 +28,7 @@ Tabla periódica de los elementos, con información detallada, buscador y un jue
     Finalmente, si el cuadro de búsqueda está vacio, o está mostrando el mensaje de inactividad, muestra todos los elementos.
 
 **5.- Añadido nuevos elementos.**
-    En el diseñador, agrega una nuevo Button. En la propiedad de Name ingresa el nombre del elemento a añadir, y en la propiedad Text, inserta el símbolo. El cuadro de búsqueda
+    En el diseñador, agrega una nuevo Button. En la propiedad de Name ingresa la palabra "btn" y luego el nombre del elemento a añadir (Ej.- btnEjemplo , btnLitio), y en la propiedad Text, inserta el símbolo. El cuadro de búsqueda
     lo considerará automaticamente gracias al ciclo For Each.
 
 **6.- Eventos Miscelaneos.**
