@@ -2,7 +2,7 @@
 Tabla periódica de los elementos, con información detallada, buscador y un juego de cuestionario de tres dificultades y una tabla de clasificación de la puntiación del mismo.
 
 # COMO FUNCIONA, PASO POR PASO:
-1.- IdleMsg;
+## 1.- IdleMsg;
     IdleMsg es una variable que almacena el texto a mostrar mientras el buscador está en desuso. Puedes ingresar en el cualquier string, o simplemenete escribir "" para no mostrar nada.
 
 2.- Ciclo For Each para obtener los controles.
