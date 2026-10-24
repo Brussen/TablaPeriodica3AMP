@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "TablaPeriodicaTest1/1.0.0": {
+        "runtime": {
+          "TablaPeriodicaTest1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TablaPeriodicaTest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
