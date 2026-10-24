@@ -128,7 +128,6 @@ bueno, dejando eso de lado,
               ActiveControl = Nothing
           End Sub
       End Class
-      ' no lo vayas a reclamar, yamil /hj
 
 # Gifs para que vean como funciona 🫀
 <img width="854" height="480" alt="Name, Symbol or Number" src="https://github.com/user-attachments/assets/fcc2484f-b328-46e4-a0dc-476b46598953" />
@@ -139,7 +138,38 @@ bueno, dejando eso de lado,
 
 <img width="854" height="480" alt="Number" src="https://github.com/user-attachments/assets/33cb7f5a-6259-420b-acc9-f07a25220485" />
 
-<img width="640" height="360" alt="Filters" src="https://github.com/user-attachments/assets/d0005bde-a8ec-416f-9c18-bab472632a11" />
+<img width="640" height="360" alt="Filters" src="https://github.com/user-attachments/assets/d0005bde-a8ec-416f-9c18-bab472632a11" /> <br>
+jodete veed porque le pones marca de aguja a mi jif> <br> <br>
+Los filtros actuales son: <br> <br>
+**☺ Nombre, Simbolo, #** <br>
+    Busca elementos utilizando su nombre, símbolo o número atómico. <br>
+**☺ Nombre, Simbolo** <br>
+    Busca elementos utilizando su nombre o símbolo. <br>
+**☺ Nombre** <br>
+    Busca elementos utilizando su nombre. <br>
+**☺ Simbolo** <br>
+    Busca elementos utilizando su símbolo. <br>
+**☺ Numero** <br>
+    Busca elementos utilizando su número atómico. <br>
+
+# cosas técnicas para gente muy inteli:
+(me sentí como los de canva escribiendo eso)
 
 
+**Cómo añadir nuevos elementos:** <br>
+para añadir el resto de elementos que faltan, primero, añade un botón al form, después, utiliza este formato para el nombre: <br> <br>
+*btn000nombre* , donde 000 es el número atómico (ej.- 001, 024, 156) y nombre es el nombre del elemento. en el texto del botón se pone el símbolo. Luego añadele la etiqueta *periodicelement*  (por esto tiene instrucciones el shampoo) <br> <br> Ahora mismo, el buscador solo busca elementos de 2 simbolos, si hacen uno de 3 no sirve. Esto es porque no existen elementos con 3 letras en su simbolo y si añaden uno entonces no es real y en ei trabajo la maestra quiere solo elementos reales, asi que no añadan elementos de fantasia. tampoco se equivoquen poniendole 3 letras al simbolo de un elemento 😊 <br>
 
+**cosas que hize:** <br> <br>
+* todo ♥
+* Ahora IdleMsg si funciona al cargar el form; el evento Form1_load lo actualiza.
+* Se añadieron los filtros de búsqueda (Todavía faltan más, estos son los más básicos.)
+* Ahora la barra de búsqueda solo busca en los elementos del form de tipo botón y con la etiqueta "periodicelement".
+
+<br> <br>
+
+**Posibles problemas (???):** <br>
+ninguno porque soy el mejor programador de mi casa ♥
+
+<br><br>
+en los proximos textos le bajo al reijy boyt
