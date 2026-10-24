@@ -139,6 +139,7 @@ bueno, dejando eso de lado,
 
 <img width="854" height="480" alt="Number" src="https://github.com/user-attachments/assets/33cb7f5a-6259-420b-acc9-f07a25220485" />
 
+<img width="640" height="360" alt="Filters" src="https://github.com/user-attachments/assets/d0005bde-a8ec-416f-9c18-bab472632a11" />
 
 
 
