@@ -158,7 +158,7 @@ Los filtros actuales son: <br> <br>
 
 **Cómo añadir nuevos elementos:** <br>
 para añadir el resto de elementos que faltan, primero, añade un botón al form, después, utiliza este formato para el nombre: <br> <br>
-*btn000nombre* , donde 000 es el número atómico (ej.- 001, 024, 156) y nombre es el nombre del elemento. en el texto del botón se pone el símbolo. Luego añadele la etiqueta *periodicelement*  (por esto tiene instrucciones el shampoo) <br> <br> Ahora mismo, el buscador solo busca elementos de 2 simbolos, si hacen uno de 3 no sirve. Esto es porque no existen elementos con 3 letras en su simbolo y si añaden uno entonces no es real y en ei trabajo la maestra quiere solo elementos reales, asi que no añadan elementos de fantasia. tampoco se equivoquen poniendole 3 letras al simbolo de un elemento 😊 <br>
+*btn000nombre* <br> <br> donde 000 es el número atómico (ej.- 001, 024, 156) y nombre es el nombre del elemento. en el texto del botón se pone el símbolo. Luego añadele la etiqueta *periodicelement*  (por esto tiene instrucciones el shampoo) <br> <br> Ahora mismo, el buscador solo busca elementos de máximo 2 letras y minimo 1 en su símbolo, si hacen uno de 3 no sirve. Esto es porque no existen elementos con 3 letras en su simbolo y si añaden uno entonces no es real y en ei trabajo la maestra quiere solo elementos reales, asi que no añadan elementos de fantasia. tampoco se equivoquen poniendole 3 letras al simbolo de un elemento 😊 <br>
 
 **cosas que hize:** <br> <br>
 * todo ♥
